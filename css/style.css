@@ -1,3 +1,13 @@
 body {
   /* background-color: red; */
 }
+
+.bgc-r {
+  background-color: #b91450;
+}
+
+.form-select {
+  width: 250px;
+  height: calc(3.5rem + calc(var(--bs-border-width) * 2));
+  min-height: calc(3.5rem + calc(var(--bs-border-width) * 2));
+}
